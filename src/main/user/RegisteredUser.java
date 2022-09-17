@@ -1,4 +1,4 @@
 package main.user;
 
-public class RegisteredUser {
+public class RegisteredUser extends GuestUser {
 }
