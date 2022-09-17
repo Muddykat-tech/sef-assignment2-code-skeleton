@@ -1,6 +1,4 @@
 # sef-assignment2-code-skeleton
-
-TODO:
 **Haoyu Wang:**<br />
 RegisteredUser.java    - in progress<br />
 RealestatePartner.java - in progress<br />
