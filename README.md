@@ -1,22 +1,23 @@
 # sef-assignment2-code-skeleton
 
 TODO:
-**Haoyu Wang**
-RegisteredUser.java    - in progress
-RealestatePartner.java - in progress
+**Haoyu Wang:**<br />
+RegisteredUser.java    - in progress<br />
+RealestatePartner.java - in progress<br />
+<br />
+**Jarrod Muddyman:**<br />
+GuestUser.java - Complete<br />
+ApplicationType.java - Complete<br />
+EnquiryType.java - Complete<br />
+Property.java - Complete<br />
+<br />
+**Yuvraj Ashutosh Brahmbhatt:** <br />
+RealestateAgent.java - todo<br />
+Admin.java - todo<br />
 
-**Jarrod Muddyman**
-GuestUser.java - Complete
-ApplicationType.java - Complete
-EnquiryType.java - Complete
-Property.java - Complete
-
-**Yuvraj Ashutosh Brahmbhatt**
-RealestateAgent.java - todo
-Admin.java - todo
-
-**Muskan**
-Enquiry.java - todo
-
-**As Group**
+**Muskan:** <br />
+Enquiry.java - todo<br />
+PropertyApplication.java - todo<br />
+<br />
+**As Group**<br />
  Review Code
