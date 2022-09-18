@@ -10,12 +10,12 @@ EnquiryType.java - Complete<br />
 Property.java - Complete<br />
 <br />
 **Yuvraj Ashutosh Brahmbhatt:** <br />
-RealestateAgent.java - todo<br />
-Admin.java - todo<br />
+RealestateAgent.java - complete<br />
+Admin.java - complete<br />
 
 **Muskan:** <br />
-Enquiry.java - todo<br />
-PropertyApplication.java - todo<br />
+Enquiry.java - complete<br />
+PropertyApplication.java - complete<br />
 <br />
 **As Group**<br />
  Review Code
