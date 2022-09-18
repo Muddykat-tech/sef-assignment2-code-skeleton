@@ -1,6 +1,6 @@
 package main.user;
 
-import java.util.*
+import java.util.*;
 
 public class Admin{
     protected String username;
