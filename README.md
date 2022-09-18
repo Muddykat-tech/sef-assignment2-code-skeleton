@@ -1,7 +1,7 @@
 # sef-assignment2-code-skeleton
 **Haoyu Wang:**<br />
-RegisteredUser.java    - in progress<br />
-RealestatePartner.java - in progress<br />
+RegisteredUser.java    - Complete<br />
+RealestatePartner.java - Complete<br />
 <br />
 **Jarrod Muddyman:**<br />
 GuestUser.java - Complete<br />
