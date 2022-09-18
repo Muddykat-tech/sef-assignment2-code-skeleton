@@ -1,10 +1,10 @@
 package main.property;
 
+import main.helper.EnquiryType;
 import main.property.Property;
 import main.user.RegisteredUser;
-import main.user.RealestateAgent;
 
-import java.util.*
+import java.util.*;
 
 public class Enquiry{
     private EnquiryType type;
@@ -13,16 +13,16 @@ public class Enquiry{
     private String AgentId;
     private String enquiryId;
     
-    public void setSenderId(String){
+    public void setSenderId(String userID){
         
     }
-    public void setAgentId(String){
+    public void setAgentId(String agentID){
         
     }
-    public void setDescription(String){
+    public void setDescription(String newDescription){
         
     }
-     public void setEnquiryType(EnquiryType){
+     public void setEnquiryType(EnquiryType type){
         
     }
     

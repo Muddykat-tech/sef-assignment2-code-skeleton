@@ -2,26 +2,20 @@ package main.user;
 
 import java.util.*;
 
-public class Admin{
-    protected String username;
-    protected String email;
-    
-    public returnType 
-    
-    public boolean deleteRealestatePartner (partnerID:String, newPartnerInfo:RealestatePartner){
+public class Admin extends RealestatePartner {
+    public boolean deleteRealestatePartner (String partnerID, RealestatePartner newPartnerInfo){
         return false;
     }
-    public boolean updateRealestatePartner(partnerID:String, newPartnerInfo:RealestastePartner){
+    public boolean updateRealestatePartner(String partnerID, RealestatePartner newPartnerInfo){
         return false;
     }
-    public boolean assignAgentToProperty(agentID:String, propertyID:String){
-        return false;
-        
-    }
-    public boolean createAgent(agent:RealestateAgent){
+    public boolean assignAgentToProperty(String agentID, String propertyID){
         return false;
     }
-    public boolean deleteAgent(agentID:String){
+    public boolean createAgent(RealestateAgent agent){
+        return false;
+    }
+    public boolean deleteAgent(String agentID){
         return false;
     }
 }
