@@ -10,12 +10,12 @@ public class PropertyApplication{
     public Boolean accepted;
     public RegisteredUser user;
     public Property property;
-}
+    }
 
-public boolean acceptApplication(){
-    return false;
-}
-public boolean rejectApplication(){
-    return false;
-}
+    public boolean acceptApplication(){
+        return false;
+    }
+    public boolean rejectApplication(){
+        return false;
+    }
 }
